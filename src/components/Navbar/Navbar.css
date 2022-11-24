@@ -1,0 +1,15 @@
+.navbar-brand img{
+    max-width: 60px;
+    max-height: 60px;
+}
+.carrito{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin-left: 10px;
+}
+
+.carrito button, p{
+    margin: 0px 5px 0px 5px;
+}
