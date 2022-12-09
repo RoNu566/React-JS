@@ -1,0 +1,221 @@
+[
+    { 
+     "id": 1,
+     "categoria": "ropa",
+     "nombre": "remera", 
+     "talle": "XL", 
+     "color": "rojo", 
+     "precio": 500, 
+     "stock": 2,
+     "imagen": "red-t-shirt.jpg" 
+    },
+
+    {
+    "id": 2,
+    "categoria": "ropa",
+    "nombre": "remera",
+    "talle": "L",
+    "color": "verde",
+    "precio": 400, 
+    "stock": 2,
+    "imagen": "green-t-shirt.jpg" 
+    },
+                 
+    {
+    "id": 3, 
+    "categoria": "ropa",
+    "nombre": "camisa", 
+    "talle": "XL", 
+    "color": "celeste", 
+    "precio": 800, 
+    "stock": 2,
+    "imagen": "blue-shirt.jpg" 
+    },
+
+    {
+    "id": 4, 
+    "categoria": "ropa",
+    "nombre": "blusa", 
+    "talle": "S", 
+    "color": "rosado", 
+    "precio": 800, 
+    "stock": 2,
+    "imagen": "pinkblouse.jpg" 
+    },
+
+    {
+    "id": 5, 
+    "categoria": "ropa",
+    "nombre": "shorts", 
+    "talle": "XS", 
+    "color": "violeta", 
+    "precio": 1200, 
+    "stock": 2,
+    "imagen": "purple-shorts.jpg" 
+    },
+
+    {
+    "id": 6, 
+    "categoria": "ropa",
+    "nombre": "pantalon", 
+    "talle": "M", 
+    "color": "marron", 
+    "precio": 1500, 
+    "stock": 2,
+    "imagen": "brown-trousers.jpg" 
+    },
+     
+    {
+    "id": 7, 
+    "categoria": "ropa",
+    "nombre": "campera", 
+    "talle": "XXL", 
+    "color": "negro", 
+    "precio": 3000, 
+    "stock": 2,
+    "imagen": "black-jacket.jpg" 
+    },
+
+    {
+    "id": 8, 
+    "categoria": "ropa",
+    "nombre": "tapado", 
+    "Talle": "M", 
+    "color": "gris", 
+    "precio": 3500, 
+    "stock": 3,
+    "imagen": "grey-coat.jpg" 
+    },
+
+    {
+    "id": 9, 
+    "categoria": "ropa",
+    "nombre": "calza", 
+    "talle": "L", 
+    "color": "amarillo", 
+    "precio": 2000, 
+    "stock": 1,
+    "imagen": "yellow-leggins.jpg" 
+    },
+
+    {
+    "id": 10, 
+    "categoria": "ropa",
+    "nombre": "vestido", 
+    "talle": "S", 
+    "color": "rojo", 
+    "precio": 5000, 
+    "stock": 1,
+    "imagen": "red-dress.jpg" 
+    },
+
+    {
+    "id": 11,
+    "categoria": "ropa", 
+    "nombre": "saco", 
+    "talle": "M", 
+    "color": "azul", 
+    "precio": 3500, 
+    "stock": 1,
+    "image": "blue-blazer.jpg"
+    },
+
+    {
+    "id": 12, 
+    "categoria": "accesorios",
+    "nombre": "gorra", 
+    "talle": "-", 
+    "color": "negro", 
+    "precio": 500, 
+    "stock": 4,
+    "imagen": "black-cup.jpg"
+    },
+
+    {
+    "id": 13,
+    "categoria": "ropa", 
+    "nombre": "pollera", 
+    "talle": "XXS", 
+    "color": "negro", 
+    "precio": 1500, 
+    "stock": 3,
+    "imagen": "black-skirt.jpg"
+    },
+
+    {
+    "id": 14, 
+    "categoria": "accesorios",
+    "nombre": "cartera", 
+    "talle": "-", 
+    "color": "rosa claro", 
+    "precio": 2500, 
+    "stock": 1,
+    "imagen": "pink-bag.jpg"
+    },
+
+    {
+    "id": 15, 
+    "categoria": "ropa",
+    "nombre": "buzo corto", 
+    "talle": "L", 
+    "color": "rosa, blanco y negro", 
+    "precio": 1600,
+    "stock": 4, 
+    "imagen": "crop-top.jpg"
+    },
+
+    {
+    "id": 16, 
+    "categoria": "ropa",
+    "nomnre": "pantalon jean", 
+    "talle": "S", 
+    "color": "azul", 
+    "precio": 1800, 
+    "stock": 1,
+    "imagen": "jeans.jpg"
+    },
+
+    {
+    "id": 17, 
+    "categoria": "ropa",
+    "nombre": "buzo", 
+    "talle": "XXL", 
+    "color": "turquesa", 
+    "precio": 1000, 
+    "stock": 3,
+    "imagen": "buzo.jpg"
+    },
+
+    {
+    "id": 18,
+    "categoria": "ropa", 
+    "nombre": "vestido", 
+    "talle": "XL", 
+    "color": "azul con lunares", 
+    "precio": 1400,
+    "stock": 1, 
+    "imagen": "blue-dress.jpg"
+    },
+
+    {
+    "id": 19,
+    "categoria": "ropa", 
+    "nombre": "monoprenda", 
+    "talle": "M", 
+    "color": "beige", 
+    "precio": 1700, 
+    "stock": 2,
+    "imagen": "mono.jpg"
+    },
+                 
+    {
+    "id": 20, 
+    "categoria": "ropa",
+    "nombre": "pollera", 
+    "talle": "S", 
+    "color": "naranja", 
+    "precio": 1200, 
+    "stock": 3,
+    "imagen": "orange-skirt.jpg"
+    }
+]
