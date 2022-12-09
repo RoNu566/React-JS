@@ -8,7 +8,7 @@ const ItemCount = ({stock}) => {
     const restar = () => contador > 1 && setContador(contador - 1)
     
     return (
-        <div>
+        <div className='ItemCount'>
             <button className='btn btn-dark' onClick={() => restar()}>-</button>
                 {contador}
             <button className='btn btn-dark' onClick={() => sumar()}>+</button>
