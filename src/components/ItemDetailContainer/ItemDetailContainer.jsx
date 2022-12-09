@@ -16,7 +16,7 @@ const ItemDetailContainer = () => {
 
     return (
         <div className="card mb-3 container itemDetail">
-            <ItemDetail item={producto} />
+            <ItemDetail item={producto}/>
         </div>
     );
 }
