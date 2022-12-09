@@ -1,7 +1,7 @@
 [
     { 
      "id": 1,
-     "categoria": "ropa",
+     "idCategoria": "ropa",
      "nombre": "remera", 
      "talle": "XL", 
      "color": "rojo", 
@@ -12,7 +12,7 @@
 
     {
     "id": 2,
-    "categoria": "ropa",
+    "idCategoria": "ropa",
     "nombre": "remera",
     "talle": "L",
     "color": "verde",
@@ -23,7 +23,7 @@
                  
     {
     "id": 3, 
-    "categoria": "ropa",
+    "idCategoria": "ropa",
     "nombre": "camisa", 
     "talle": "XL", 
     "color": "celeste", 
@@ -34,7 +34,7 @@
 
     {
     "id": 4, 
-    "categoria": "ropa",
+    "idCategoria": "ropa",
     "nombre": "blusa", 
     "talle": "S", 
     "color": "rosado", 
@@ -45,7 +45,7 @@
 
     {
     "id": 5, 
-    "categoria": "ropa",
+    "idCategoria": "ropa",
     "nombre": "shorts", 
     "talle": "XS", 
     "color": "violeta", 
@@ -56,7 +56,7 @@
 
     {
     "id": 6, 
-    "categoria": "ropa",
+    "idCategoria": "ropa",
     "nombre": "pantalon", 
     "talle": "M", 
     "color": "marron", 
@@ -67,7 +67,7 @@
      
     {
     "id": 7, 
-    "categoria": "ropa",
+    "idCategoria": "ropa",
     "nombre": "campera", 
     "talle": "XXL", 
     "color": "negro", 
@@ -78,7 +78,7 @@
 
     {
     "id": 8, 
-    "categoria": "ropa",
+    "idCategoria": "ropa",
     "nombre": "tapado", 
     "Talle": "M", 
     "color": "gris", 
@@ -89,7 +89,7 @@
 
     {
     "id": 9, 
-    "categoria": "ropa",
+    "idCategoria": "ropa",
     "nombre": "calza", 
     "talle": "L", 
     "color": "amarillo", 
@@ -100,7 +100,7 @@
 
     {
     "id": 10, 
-    "categoria": "ropa",
+    "idCategoria": "ropa",
     "nombre": "vestido", 
     "talle": "S", 
     "color": "rojo", 
@@ -111,18 +111,18 @@
 
     {
     "id": 11,
-    "categoria": "ropa", 
+    "idCategoria": "ropa", 
     "nombre": "saco", 
     "talle": "M", 
     "color": "azul", 
     "precio": 3500, 
     "stock": 1,
-    "image": "blue-blazer.jpg"
+    "imagen": "blue-blazer.jpg"
     },
 
     {
     "id": 12, 
-    "categoria": "accesorios",
+    "idCategoria": "accesorios",
     "nombre": "gorra", 
     "talle": "-", 
     "color": "negro", 
@@ -133,7 +133,7 @@
 
     {
     "id": 13,
-    "categoria": "ropa", 
+    "idCategoria": "ropa", 
     "nombre": "pollera", 
     "talle": "XXS", 
     "color": "negro", 
@@ -144,7 +144,7 @@
 
     {
     "id": 14, 
-    "categoria": "accesorios",
+    "idCategoria": "accesorios",
     "nombre": "cartera", 
     "talle": "-", 
     "color": "rosa claro", 
@@ -155,7 +155,7 @@
 
     {
     "id": 15, 
-    "categoria": "ropa",
+    "idCategoria": "ropa",
     "nombre": "buzo corto", 
     "talle": "L", 
     "color": "rosa, blanco y negro", 
@@ -166,8 +166,8 @@
 
     {
     "id": 16, 
-    "categoria": "ropa",
-    "nomnre": "pantalon jean", 
+    "idCategoria": "ropa",
+    "nombre": "pantalon jean", 
     "talle": "S", 
     "color": "azul", 
     "precio": 1800, 
@@ -177,7 +177,7 @@
 
     {
     "id": 17, 
-    "categoria": "ropa",
+    "idCategoria": "ropa",
     "nombre": "buzo", 
     "talle": "XXL", 
     "color": "turquesa", 
@@ -188,7 +188,7 @@
 
     {
     "id": 18,
-    "categoria": "ropa", 
+    "idCategoria": "ropa", 
     "nombre": "vestido", 
     "talle": "XL", 
     "color": "azul con lunares", 
@@ -199,7 +199,7 @@
 
     {
     "id": 19,
-    "categoria": "ropa", 
+    "idCategoria": "ropa", 
     "nombre": "monoprenda", 
     "talle": "M", 
     "color": "beige", 
@@ -210,7 +210,7 @@
                  
     {
     "id": 20, 
-    "categoria": "ropa",
+    "idCategoria": "ropa",
     "nombre": "pollera", 
     "talle": "S", 
     "color": "naranja", 
