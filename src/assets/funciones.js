@@ -4,4 +4,4 @@ const consultarBDD = async (ruta) => {
     return productos
 }
 
-export default consultarBDD;
+export { consultarBDD}

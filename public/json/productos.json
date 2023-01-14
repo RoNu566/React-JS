@@ -7,7 +7,7 @@
      "color": "rojo", 
      "precio": 500, 
      "stock": 2,
-     "imagen": "red-t-shirt.jpg" 
+     "imagen": "https://firebasestorage.googleapis.com/v0/b/viene-y-va-8a6ba.appspot.com/o/red-t-shirt.jpg?alt=media&token=6998ef9a-f139-40ec-8c79-e890dd65d7ce" 
     },
 
     {
@@ -18,7 +18,7 @@
     "color": "verde",
     "precio": 400, 
     "stock": 2,
-    "imagen": "green-t-shirt.jpg" 
+    "imagen": "https://firebasestorage.googleapis.com/v0/b/viene-y-va-8a6ba.appspot.com/o/green-t-shirt.jpg?alt=media&token=4e459fc4-ed58-4cc9-92ec-89c5717e0217" 
     },
                  
     {
@@ -29,7 +29,7 @@
     "color": "celeste", 
     "precio": 800, 
     "stock": 2,
-    "imagen": "blue-shirt.jpg" 
+    "imagen": "https://firebasestorage.googleapis.com/v0/b/viene-y-va-8a6ba.appspot.com/o/blue-shirt.jpg?alt=media&token=9be5d655-f612-41fb-8b73-aeb5cf662464" 
     },
 
     {
@@ -40,7 +40,7 @@
     "color": "rosado", 
     "precio": 800, 
     "stock": 2,
-    "imagen": "pinkblouse.jpg" 
+    "imagen": "https://firebasestorage.googleapis.com/v0/b/viene-y-va-8a6ba.appspot.com/o/pinkblouse.jpg?alt=media&token=59830197-0599-4bcb-9869-4919fa84787e" 
     },
 
     {
@@ -51,7 +51,7 @@
     "color": "violeta", 
     "precio": 1200, 
     "stock": 2,
-    "imagen": "purple-shorts.jpg" 
+    "imagen": "https://firebasestorage.googleapis.com/v0/b/viene-y-va-8a6ba.appspot.com/o/purple-shorts.jpg?alt=media&token=d64d4d99-8de0-4464-b065-dcd299629268" 
     },
 
     {
@@ -62,7 +62,7 @@
     "color": "marron", 
     "precio": 1500, 
     "stock": 2,
-    "imagen": "brown-trousers.jpg" 
+    "imagen": "https://firebasestorage.googleapis.com/v0/b/viene-y-va-8a6ba.appspot.com/o/brown-trousers.jpg?alt=media&token=e37e10a8-396e-4dbe-888a-901cdb95ca79" 
     },
      
     {
@@ -73,7 +73,7 @@
     "color": "negro", 
     "precio": 3000, 
     "stock": 2,
-    "imagen": "black-jacket.jpg" 
+    "imagen": "https://firebasestorage.googleapis.com/v0/b/viene-y-va-8a6ba.appspot.com/o/black-jacket.jpg?alt=media&token=601412f6-cca2-4373-afa9-ee45ae8f00aa" 
     },
 
     {
@@ -84,7 +84,7 @@
     "color": "gris", 
     "precio": 3500, 
     "stock": 3,
-    "imagen": "grey-coat.jpg" 
+    "imagen": "https://firebasestorage.googleapis.com/v0/b/viene-y-va-8a6ba.appspot.com/o/grey-coat.jpg?alt=media&token=aa16e51f-1984-4a73-8084-d93ebf9a57d4" 
     },
 
     {
@@ -95,7 +95,7 @@
     "color": "amarillo", 
     "precio": 2000, 
     "stock": 1,
-    "imagen": "yellow-leggins.jpg" 
+    "imagen": "https://firebasestorage.googleapis.com/v0/b/viene-y-va-8a6ba.appspot.com/o/yellow-leggins.jpg?alt=media&token=19585d0c-9643-49d3-8e29-32c7c2d09df0" 
     },
 
     {
@@ -106,7 +106,7 @@
     "color": "rojo", 
     "precio": 5000, 
     "stock": 1,
-    "imagen": "red-dress.jpg" 
+    "imagen": "https://firebasestorage.googleapis.com/v0/b/viene-y-va-8a6ba.appspot.com/o/red-dress.jpg?alt=media&token=51508e0a-4de2-4730-9ba6-12aafdc899a1" 
     },
 
     {
@@ -117,18 +117,18 @@
     "color": "azul", 
     "precio": 3500, 
     "stock": 1,
-    "imagen": "blue-blazer.jpg"
+    "imagen": "https://firebasestorage.googleapis.com/v0/b/viene-y-va-8a6ba.appspot.com/o/blue-blazer.jpg?alt=media&token=bf9eb2b6-8ce0-4f51-99d6-fe5f5430777d"
     },
 
     {
     "id": 12, 
     "idCategoria": "accesorios",
     "nombre": "gorra", 
-    "talle": "-", 
+    "talle": "L", 
     "color": "negro", 
     "precio": 500, 
     "stock": 4,
-    "imagen": "black-cup.jpg"
+    "imagen": "https://firebasestorage.googleapis.com/v0/b/viene-y-va-8a6ba.appspot.com/o/black-cup.jpg?alt=media&token=f2ee29e8-46cd-49f4-ad32-a26982634341"
     },
 
     {
@@ -139,18 +139,18 @@
     "color": "negro", 
     "precio": 1500, 
     "stock": 3,
-    "imagen": "black-skirt.jpg"
+    "imagen": "https://firebasestorage.googleapis.com/v0/b/viene-y-va-8a6ba.appspot.com/o/black-skirt.jpg?alt=media&token=6eeab239-8190-4700-adb4-48813f03d997"
     },
 
     {
     "id": 14, 
     "idCategoria": "accesorios",
     "nombre": "cartera", 
-    "talle": "-", 
+    "talle": "L", 
     "color": "rosa claro", 
     "precio": 2500, 
     "stock": 1,
-    "imagen": "pink-bag.jpg"
+    "imagen": "https://firebasestorage.googleapis.com/v0/b/viene-y-va-8a6ba.appspot.com/o/pink-bag.jpg?alt=media&token=6093b50b-976a-4325-8de3-533735de5e80"
     },
 
     {
@@ -161,7 +161,7 @@
     "color": "rosa, blanco y negro", 
     "precio": 1600,
     "stock": 4, 
-    "imagen": "crop-top.jpg"
+    "imagen": "https://firebasestorage.googleapis.com/v0/b/viene-y-va-8a6ba.appspot.com/o/crop-top.jpg?alt=media&token=7f8e327a-514f-4583-994b-4089a34a642f"
     },
 
     {
@@ -172,7 +172,7 @@
     "color": "azul", 
     "precio": 1800, 
     "stock": 1,
-    "imagen": "jeans.jpg"
+    "imagen": "https://firebasestorage.googleapis.com/v0/b/viene-y-va-8a6ba.appspot.com/o/jeans.jpg?alt=media&token=5f075e8e-6a98-4e5e-b62c-50c062ccde5f"
     },
 
     {
@@ -183,7 +183,7 @@
     "color": "turquesa", 
     "precio": 1000, 
     "stock": 3,
-    "imagen": "buzo.jpg"
+    "imagen": "https://firebasestorage.googleapis.com/v0/b/viene-y-va-8a6ba.appspot.com/o/buzo.jpg?alt=media&token=ae844952-fadf-4dfd-97e7-00c1249bd865"
     },
 
     {
@@ -194,7 +194,7 @@
     "color": "azul con lunares", 
     "precio": 1400,
     "stock": 1, 
-    "imagen": "blue-dress.jpg"
+    "imagen": "https://firebasestorage.googleapis.com/v0/b/viene-y-va-8a6ba.appspot.com/o/blue-dress.jpg?alt=media&token=e9bf2535-8827-4b73-9b4a-54cbfafb13de"
     },
 
     {
@@ -205,7 +205,7 @@
     "color": "beige", 
     "precio": 1700, 
     "stock": 2,
-    "imagen": "mono.jpg"
+    "imagen": "https://firebasestorage.googleapis.com/v0/b/viene-y-va-8a6ba.appspot.com/o/mono.jpg?alt=media&token=20eac67e-14ff-408c-b9c5-4b0132e0d8c5"
     },
                  
     {
@@ -216,6 +216,6 @@
     "color": "naranja", 
     "precio": 1200, 
     "stock": 3,
-    "imagen": "orange-skirt.jpg"
+    "imagen": "https://firebasestorage.googleapis.com/v0/b/viene-y-va-8a6ba.appspot.com/o/orange-skirt.jpg?alt=media&token=fdfcace7-821b-47a5-b8e2-87a65ad9acc7"
     }
 ]
