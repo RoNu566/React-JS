@@ -13,3 +13,11 @@
 .carrito button, p{
     margin: 0px 5px 0px 5px;
 }
+.tit {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    font-size: x-large;
+    color: rgb(247, 242, 242);
+}

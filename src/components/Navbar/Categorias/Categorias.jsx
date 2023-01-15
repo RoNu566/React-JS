@@ -10,6 +10,7 @@ const Categorias = () => {
           <li className="nav-item">
             <Link className="nav-link" to={"/category/accesorios"}>Accesorios</Link>
           </li>  
+          <li className="tit">Second Chance- Tienda de Ropa Usada</li>
         </ul>
     );
 }
